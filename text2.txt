@@ -1,0 +1,3 @@
+MergeTest
+ThisFileIsMerged
+ItWillBeAddedToTheArray
